@@ -1,0 +1,13 @@
+.DS_Store
+.idea/
+GroupUsersHDF5.py
+MixtureOfMarkovChains.py
+ParallelUserFinder.py
+Test_HSMM.py
+Test_NN_autograd.py
+data/
+groupingDataByUsers
+groupingDataByUsers.py
+Results/*
+*.pyc
+.ipynb_checkpoints/
